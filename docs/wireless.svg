@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12" height="12" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="wireless" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#2731FF" cx="60" cy="60" r="60"></circle>
+        <path d="M65.971784,60.6443086 L81.1346806,44.0948828 L57.2375588,19 L57.2375588,52.0450391 L43.1411691,38.2538242 L38,43.2835313 L55.6896095,60.6443086 L38,78.0050859 L43.1411691,83.034793 L57.2375588,69.2435781 L57.6820049,101 L82,77.1937344 L65.971784,60.6443086 Z M72,44.0270402 L64.0537414,52 L64,36 L72,44.0270402 Z M64.0537414,69 L72,76.9730393 L64,85 L64.0537414,69 L64.0537414,69 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+    </g>
+</svg>
